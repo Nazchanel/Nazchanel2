@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
           # Options
-          user: ChrisTitusTech
+          user: Nazchanel
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
